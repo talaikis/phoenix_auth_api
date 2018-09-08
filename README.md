@@ -1,4 +1,4 @@
-# Phoenix API
+# Phoenix Auth API
 
 Fork of [Phoenix-JWT-Auth-API](https://github.com/njwest/Phoenix-JWT-Auth-API)
 
